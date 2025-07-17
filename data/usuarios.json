@@ -1,0 +1,10 @@
+{
+  "admin1": {
+    "clave": "1234",
+    "rol": "admin"
+  },
+  "operador1": {
+    "clave": "abcd",
+    "rol": "operador"
+  }
+}
